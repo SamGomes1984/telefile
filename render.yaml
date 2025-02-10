@@ -17,4 +17,4 @@ services:
       - key: WASABI_REGION
         value: "us-east-1"
       - key: BASE_URL
-        value: "https://telebotfilestream.onrender.com"
+        value: "https://telefile.onrender.com"
